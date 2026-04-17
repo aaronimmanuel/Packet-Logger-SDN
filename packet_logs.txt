@@ -1,0 +1,1009 @@
+========== SDN PACKET LOGGER ==========
+Controller started at: 2026-04-08 01:27:11.602011
+
+========== PACKET 1 ==========
+Timestamp       : 2026-04-08 01:27:11
+Switch ID       : 1
+In Port         : 3
+Source MAC      : 26:71:f6:7d:35:43
+Destination MAC : 33:33:ff:7d:35:43
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 1
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 1}
+======================================
+
+========== PACKET 2 ==========
+Timestamp       : 2026-04-08 01:27:12
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 33:33:ff:b7:7e:16
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 2
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 2}
+======================================
+
+========== PACKET 3 ==========
+Timestamp       : 2026-04-08 01:27:12
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 33:33:00:00:00:16
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 3
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 3}
+======================================
+
+========== PACKET 4 ==========
+Timestamp       : 2026-04-08 01:27:12
+Switch ID       : 1
+In Port         : 3
+Source MAC      : 26:71:f6:7d:35:43
+Destination MAC : 33:33:00:00:00:16
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 4
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 4}
+======================================
+
+========== PACKET 5 ==========
+Timestamp       : 2026-04-08 01:27:12
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 33:33:00:00:00:16
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 5
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 5}
+======================================
+
+========== PACKET 6 ==========
+Timestamp       : 2026-04-08 01:27:12
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 6
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 6}
+======================================
+
+========== PACKET 7 ==========
+Timestamp       : 2026-04-08 01:27:12
+Switch ID       : 1
+In Port         : 3
+Source MAC      : 26:71:f6:7d:35:43
+Destination MAC : 33:33:00:00:00:16
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 7
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 7}
+======================================
+
+========== PACKET 8 ==========
+Timestamp       : 2026-04-08 01:27:12
+Switch ID       : 1
+In Port         : 3
+Source MAC      : 26:71:f6:7d:35:43
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 8
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 8}
+======================================
+
+========== PACKET 9 ==========
+Timestamp       : 2026-04-08 01:27:12
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 33:33:00:00:00:16
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 9
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 9}
+======================================
+
+========== PACKET 10 ==========
+Timestamp       : 2026-04-08 01:27:13
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 33:33:00:00:00:16
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 10
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 10}
+======================================
+
+========== PACKET 11 ==========
+Timestamp       : 2026-04-08 01:27:13
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 11
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 11}
+======================================
+
+========== PACKET 12 ==========
+Timestamp       : 2026-04-08 01:27:13
+Switch ID       : 1
+In Port         : 3
+Source MAC      : 26:71:f6:7d:35:43
+Destination MAC : 33:33:00:00:00:16
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 12
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 12}
+======================================
+
+========== PACKET 13 ==========
+Timestamp       : 2026-04-08 01:27:13
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 33:33:00:00:00:16
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 13
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 13}
+======================================
+
+========== PACKET 14 ==========
+Timestamp       : 2026-04-08 01:27:16
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 14
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 14}
+======================================
+
+========== PACKET 15 ==========
+Timestamp       : 2026-04-08 01:27:17
+Switch ID       : 1
+In Port         : 3
+Source MAC      : 26:71:f6:7d:35:43
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 15
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 15}
+======================================
+
+========== PACKET 16 ==========
+Timestamp       : 2026-04-08 01:27:17
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 16
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 16}
+======================================
+
+========== PACKET 17 ==========
+Timestamp       : 2026-04-08 01:27:24
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 17
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 17}
+======================================
+
+========== PACKET 18 ==========
+Timestamp       : 2026-04-08 01:27:25
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 18
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 18}
+======================================
+
+========== PACKET 19 ==========
+Timestamp       : 2026-04-08 01:27:26
+Switch ID       : 1
+In Port         : 3
+Source MAC      : 26:71:f6:7d:35:43
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 19
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 19}
+======================================
+
+========== PACKET 20 ==========
+Timestamp       : 2026-04-08 01:27:41
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 20
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 20}
+======================================
+
+========== PACKET 21 ==========
+Timestamp       : 2026-04-08 01:27:41
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 21
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 21}
+======================================
+
+========== PACKET 22 ==========
+Timestamp       : 2026-04-08 01:27:44
+Switch ID       : 1
+In Port         : 3
+Source MAC      : 26:71:f6:7d:35:43
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 22
+Protocol Stats  : {'ARP': 0, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 23 ==========
+Timestamp       : 2026-04-08 01:27:44
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : ff:ff:ff:ff:ff:ff
+Protocol        : ARP
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+ARP Opcode      : 1
+Detected Type   : ARP
+Total Packets   : 23
+Protocol Stats  : {'ARP': 1, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 24 ==========
+Timestamp       : 2026-04-08 01:27:44
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Protocol        : ARP
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+ARP Opcode      : 2
+Detected Type   : ARP
+Total Packets   : 24
+Protocol Stats  : {'ARP': 2, 'ICMP': 0, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 25 ==========
+Timestamp       : 2026-04-08 01:27:44
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 8
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 25
+Protocol Stats  : {'ARP': 2, 'ICMP': 1, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 26 ==========
+Timestamp       : 2026-04-08 01:27:44
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 0
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 26
+Protocol Stats  : {'ARP': 2, 'ICMP': 2, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 27 ==========
+Timestamp       : 2026-04-08 01:27:45
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 8
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 27
+Protocol Stats  : {'ARP': 2, 'ICMP': 3, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 28 ==========
+Timestamp       : 2026-04-08 01:27:45
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 0
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 28
+Protocol Stats  : {'ARP': 2, 'ICMP': 4, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 29 ==========
+Timestamp       : 2026-04-08 01:27:46
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 8
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 29
+Protocol Stats  : {'ARP': 2, 'ICMP': 5, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 30 ==========
+Timestamp       : 2026-04-08 01:27:46
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 0
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 30
+Protocol Stats  : {'ARP': 2, 'ICMP': 6, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 31 ==========
+Timestamp       : 2026-04-08 01:27:47
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 8
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 31
+Protocol Stats  : {'ARP': 2, 'ICMP': 7, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 32 ==========
+Timestamp       : 2026-04-08 01:27:47
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 0
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 32
+Protocol Stats  : {'ARP': 2, 'ICMP': 8, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 33 ==========
+Timestamp       : 2026-04-08 01:27:48
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 8
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 33
+Protocol Stats  : {'ARP': 2, 'ICMP': 9, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 34 ==========
+Timestamp       : 2026-04-08 01:27:48
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 0
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 34
+Protocol Stats  : {'ARP': 2, 'ICMP': 10, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 35 ==========
+Timestamp       : 2026-04-08 01:27:49
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 8
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 35
+Protocol Stats  : {'ARP': 2, 'ICMP': 11, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 36 ==========
+Timestamp       : 2026-04-08 01:27:49
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 0
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 36
+Protocol Stats  : {'ARP': 2, 'ICMP': 12, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 37 ==========
+Timestamp       : 2026-04-08 01:27:50
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Protocol        : ARP
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+ARP Opcode      : 1
+Detected Type   : ARP
+Total Packets   : 37
+Protocol Stats  : {'ARP': 3, 'ICMP': 12, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 38 ==========
+Timestamp       : 2026-04-08 01:27:50
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Protocol        : ARP
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+ARP Opcode      : 2
+Detected Type   : ARP
+Total Packets   : 38
+Protocol Stats  : {'ARP': 4, 'ICMP': 12, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 39 ==========
+Timestamp       : 2026-04-08 01:27:50
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 8
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 39
+Protocol Stats  : {'ARP': 4, 'ICMP': 13, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 40 ==========
+Timestamp       : 2026-04-08 01:27:50
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 0
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 40
+Protocol Stats  : {'ARP': 4, 'ICMP': 14, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 41 ==========
+Timestamp       : 2026-04-08 01:27:51
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 8
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 41
+Protocol Stats  : {'ARP': 4, 'ICMP': 15, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 42 ==========
+Timestamp       : 2026-04-08 01:27:51
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 0
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 42
+Protocol Stats  : {'ARP': 4, 'ICMP': 16, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 43 ==========
+Timestamp       : 2026-04-08 01:27:52
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 8
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 43
+Protocol Stats  : {'ARP': 4, 'ICMP': 17, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 44 ==========
+Timestamp       : 2026-04-08 01:27:52
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 0
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 44
+Protocol Stats  : {'ARP': 4, 'ICMP': 18, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 45 ==========
+Timestamp       : 2026-04-08 01:27:53
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 8
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 45
+Protocol Stats  : {'ARP': 4, 'ICMP': 19, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 46 ==========
+Timestamp       : 2026-04-08 01:27:53
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 0
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 46
+Protocol Stats  : {'ARP': 4, 'ICMP': 20, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 47 ==========
+Timestamp       : 2026-04-08 01:27:54
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 8
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 47
+Protocol Stats  : {'ARP': 4, 'ICMP': 21, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 48 ==========
+Timestamp       : 2026-04-08 01:27:54
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : ICMP
+ICMP Type       : 0
+ICMP Code       : 0
+Detected Type   : ICMP
+Total Packets   : 48
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 22}
+======================================
+
+========== PACKET 49 ==========
+Timestamp       : 2026-04-08 01:28:12
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 49
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 23}
+======================================
+
+========== PACKET 50 ==========
+Timestamp       : 2026-04-08 01:28:16
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 50
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 24}
+======================================
+
+========== PACKET 51 ==========
+Timestamp       : 2026-04-08 01:28:24
+Switch ID       : 1
+In Port         : 3
+Source MAC      : 26:71:f6:7d:35:43
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 51
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 0, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 52 ==========
+Timestamp       : 2026-04-08 01:28:26
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : TCP
+Source Port     : 59374
+Destination Port: 80
+Detected Type   : TCP
+Total Packets   : 52
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 1, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 53 ==========
+Timestamp       : 2026-04-08 01:28:26
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : TCP
+Source Port     : 80
+Destination Port: 59374
+Detected Type   : TCP
+Total Packets   : 53
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 2, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 54 ==========
+Timestamp       : 2026-04-08 01:28:26
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : TCP
+Source Port     : 59374
+Destination Port: 80
+Detected Type   : TCP
+Total Packets   : 54
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 3, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 55 ==========
+Timestamp       : 2026-04-08 01:28:26
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : TCP
+Source Port     : 59374
+Destination Port: 80
+Detected Type   : TCP
+Total Packets   : 55
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 4, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 56 ==========
+Timestamp       : 2026-04-08 01:28:26
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : TCP
+Source Port     : 80
+Destination Port: 59374
+Detected Type   : TCP
+Total Packets   : 56
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 5, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 57 ==========
+Timestamp       : 2026-04-08 01:28:26
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : TCP
+Source Port     : 80
+Destination Port: 59374
+Detected Type   : TCP
+Total Packets   : 57
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 6, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 58 ==========
+Timestamp       : 2026-04-08 01:28:26
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : TCP
+Source Port     : 80
+Destination Port: 59374
+Detected Type   : TCP
+Total Packets   : 58
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 7, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 59 ==========
+Timestamp       : 2026-04-08 01:28:26
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : TCP
+Source Port     : 59374
+Destination Port: 80
+Detected Type   : TCP
+Total Packets   : 59
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 8, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 60 ==========
+Timestamp       : 2026-04-08 01:28:26
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+TTL             : 64
+Protocol        : TCP
+Source Port     : 59374
+Destination Port: 80
+Detected Type   : TCP
+Total Packets   : 60
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 9, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 61 ==========
+Timestamp       : 2026-04-08 01:28:26
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+TTL             : 64
+Protocol        : TCP
+Source Port     : 80
+Destination Port: 59374
+Detected Type   : TCP
+Total Packets   : 61
+Protocol Stats  : {'ARP': 4, 'ICMP': 22, 'TCP': 10, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 62 ==========
+Timestamp       : 2026-04-08 01:28:31
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 02:41:3e:b4:4c:c0
+Protocol        : ARP
+Source IP       : 10.0.0.1
+Destination IP  : 10.0.0.2
+ARP Opcode      : 1
+Detected Type   : ARP
+Total Packets   : 62
+Protocol Stats  : {'ARP': 5, 'ICMP': 22, 'TCP': 10, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 63 ==========
+Timestamp       : 2026-04-08 01:28:31
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 12:8c:f1:b7:7e:16
+Protocol        : ARP
+Source IP       : 10.0.0.2
+Destination IP  : 10.0.0.1
+ARP Opcode      : 2
+Detected Type   : ARP
+Total Packets   : 63
+Protocol Stats  : {'ARP': 6, 'ICMP': 22, 'TCP': 10, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 25}
+======================================
+
+========== PACKET 64 ==========
+Timestamp       : 2026-04-08 01:29:18
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 64
+Protocol Stats  : {'ARP': 6, 'ICMP': 22, 'TCP': 10, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 26}
+======================================
+
+========== PACKET 65 ==========
+Timestamp       : 2026-04-08 01:29:26
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 65
+Protocol Stats  : {'ARP': 6, 'ICMP': 22, 'TCP': 10, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 27}
+======================================
+
+========== PACKET 66 ==========
+Timestamp       : 2026-04-08 01:29:42
+Switch ID       : 1
+In Port         : 3
+Source MAC      : 26:71:f6:7d:35:43
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 66
+Protocol Stats  : {'ARP': 6, 'ICMP': 22, 'TCP': 10, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 28}
+======================================
+
+========== PACKET 67 ==========
+Timestamp       : 2026-04-08 01:31:29
+Switch ID       : 1
+In Port         : 1
+Source MAC      : 12:8c:f1:b7:7e:16
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 67
+Protocol Stats  : {'ARP': 6, 'ICMP': 22, 'TCP': 10, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 29}
+======================================
+
+========== PACKET 68 ==========
+Timestamp       : 2026-04-08 01:31:37
+Switch ID       : 1
+In Port         : 2
+Source MAC      : 02:41:3e:b4:4c:c0
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 68
+Protocol Stats  : {'ARP': 6, 'ICMP': 22, 'TCP': 10, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 30}
+======================================
+
+========== PACKET 69 ==========
+Timestamp       : 2026-04-08 01:32:18
+Switch ID       : 1
+In Port         : 3
+Source MAC      : 26:71:f6:7d:35:43
+Destination MAC : 33:33:00:00:00:02
+Protocol        : OTHER / NON-IP
+Detected Type   : OTHER
+Total Packets   : 69
+Protocol Stats  : {'ARP': 6, 'ICMP': 22, 'TCP': 10, 'UDP': 0, 'IPv4_OTHER': 0, 'OTHER': 31}
+======================================
+
